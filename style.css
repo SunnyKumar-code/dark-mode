@@ -20,6 +20,7 @@ body{
     width: 120px;
     height: 50px;
     font-size: 30px;
+    cursor: pointer;
     background-color: #333;
     transition: filter 0.2s ease-in-out;
 }
